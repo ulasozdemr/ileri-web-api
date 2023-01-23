@@ -1,0 +1,16 @@
+.card-container{
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-direction: row;
+  max-height: 100vh;
+}
+
+.card-list {
+  width: 20%;
+  text-align: center;
+  border: 1px solid black;
+  margin: 5px;
+  padding: 10px;
+}
